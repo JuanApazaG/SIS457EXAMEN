@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Arcanoid02.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{227800CC-D93B-48AF-9902-7BAC5F272FC1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Arcanoid02.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Arcanoid02Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E4BE8F2E-7358-4577-B94A-389A78CA3503}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Arcanoid02">
+      <UniqueIdentifier>{DD7EE884-FE14-4F00-A542-C8461AB9B0B1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Arcanoid02\Arcanoid02.Build.cs">
+      <Filter>Source\Arcanoid02</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Arcanoid02\Arcanoid02.cpp">
+      <Filter>Source\Arcanoid02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid02\Arcanoid02.h">
+      <Filter>Source\Arcanoid02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid02\Arcanoid02GameModeBase.cpp">
+      <Filter>Source\Arcanoid02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid02\Arcanoid02GameModeBase.h">
+      <Filter>Source\Arcanoid02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid02\Ball.cpp">
+      <Filter>Source\Arcanoid02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid02\Ball.h">
+      <Filter>Source\Arcanoid02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid02\BallBound.cpp">
+      <Filter>Source\Arcanoid02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid02\BallBound.h">
+      <Filter>Source\Arcanoid02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid02\BallBound2.cpp">
+      <Filter>Source\Arcanoid02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid02\BallBound2.h">
+      <Filter>Source\Arcanoid02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid02\Brick.cpp">
+      <Filter>Source\Arcanoid02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid02\Brick.h">
+      <Filter>Source\Arcanoid02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid02\Paddle.cpp">
+      <Filter>Source\Arcanoid02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid02\Paddle.h">
+      <Filter>Source\Arcanoid02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid02\Paddle_Player_Controller.cpp">
+      <Filter>Source\Arcanoid02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid02\Paddle_Player_Controller.h">
+      <Filter>Source\Arcanoid02</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

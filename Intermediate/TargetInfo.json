@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Arcanoid02",
+			"Path": "C:\\Users\\juana\\OneDrive\\Escritorio\\SIS457\\Arcanoid02\\Source\\Arcanoid02.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Arcanoid02Editor",
+			"Path": "C:\\Users\\juana\\OneDrive\\Escritorio\\SIS457\\Arcanoid02\\Source\\Arcanoid02Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

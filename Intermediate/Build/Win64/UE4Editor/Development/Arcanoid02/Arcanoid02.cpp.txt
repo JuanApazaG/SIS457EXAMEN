@@ -1,0 +1,2 @@
+C:\Users\juana\OneDrive\Escritorio\SIS457\Arcanoid02\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid02\Definitions.Arcanoid02.h
+C:\Users\juana\OneDrive\Escritorio\SIS457\Arcanoid02\Source\Arcanoid02\Arcanoid02.h

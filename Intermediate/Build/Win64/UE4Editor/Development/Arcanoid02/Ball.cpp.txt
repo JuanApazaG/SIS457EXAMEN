@@ -1,0 +1,7 @@
+C:\Users\juana\OneDrive\Escritorio\SIS457\Arcanoid02\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid02\Definitions.Arcanoid02.h
+C:\Users\juana\OneDrive\Escritorio\SIS457\Arcanoid02\Source\Arcanoid02\Ball.h
+C:\Users\juana\OneDrive\Escritorio\SIS457\Arcanoid02\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid02\Ball.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
