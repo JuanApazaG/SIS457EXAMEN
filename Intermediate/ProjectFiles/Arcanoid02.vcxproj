@@ -276,6 +276,10 @@
     <None Include="..\..\Arcanoid02.uproject"/>
     <None Include="..\..\Source\Arcanoid02.Target.cs"/>
     <None Include="..\..\Source\Arcanoid02Editor.Target.cs"/>
+    <None Include="..\..\.gitattributes"/>
+    <None Include="..\..\.gitignore"/>
+    <None Include="..\..\ATLASASSETTYPEACTIONS.ipch"/>
+    <None Include="..\..\Source.rar"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
     <None Include="..\..\Config\DefaultGame.ini"/>

@@ -1,0 +1,9 @@
+C:\Users\juana\OneDrive\Escritorio\SIS457\Arcanoid02\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid02\Definitions.Arcanoid02.h
+C:\Users\juana\OneDrive\Escritorio\SIS457\Arcanoid02\Source\Arcanoid02\Brick.h
+C:\Users\juana\OneDrive\Escritorio\SIS457\Arcanoid02\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid02\Brick.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+C:\Users\juana\OneDrive\Escritorio\SIS457\Arcanoid02\Source\Arcanoid02\Ball.h
+C:\Users\juana\OneDrive\Escritorio\SIS457\Arcanoid02\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid02\Ball.generated.h

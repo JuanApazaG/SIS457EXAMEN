@@ -27,7 +27,9 @@ protected:
 	float SpeedModifierOnBounce = 1.01f;
 
 	UFUNCTION()
-		void OnOverlapBegin(class UPrimitiveComponent* OverlappedComp, class AActor* OtherActor, class UPrimitiveComponent* OtherComp, int32 OtherBodyIndexType, bool bFromSweet, const FHitResult& SweepResult);
+		void OnOverlapBegin(class UPrimitiveComponent* OverlappedComp, class AActor* OtherActor, 
+			class UPrimitiveComponent* OtherComp, int32 OtherBodyIndexType, bool bFromSweet, 
+			const FHitResult& SweepResult);
 
 	void DestroyBrick();
 

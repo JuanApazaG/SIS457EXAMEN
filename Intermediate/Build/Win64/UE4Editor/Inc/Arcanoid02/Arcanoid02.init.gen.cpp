@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeArcanoid02_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x02E7867E,
+				0x7C43E4CB,
 				0x08A19859,
 				METADATA_PARAMS(nullptr, 0)
 			};

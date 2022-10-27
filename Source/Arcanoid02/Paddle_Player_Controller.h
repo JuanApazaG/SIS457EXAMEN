@@ -23,7 +23,7 @@ protected:
 	virtual void BeginPlay() override;
 	//va a tomar un eje flotante de valor
 	void Launch();
-
+	//ball references
 	UPROPERTY(EditAnywhere)
 		TSubclassOf<ABall> BallObj;
 

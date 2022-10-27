@@ -19,25 +19,25 @@ void AArcanoid02GameModeBase::BeginPlay()
 	FRotator Rotation(0.0f, 0.0f, 0.0f);
 	SpawnBrick = GetWorld()->SpawnActor<ABrick>(ABrick::StaticClass(), Location, Rotation);
 
-	//FVector Location2(-85.0f, 4.0f, 400.0f);
-	//FRotator Rotation2(0.0f, 0.0f, 0.0f);
-	//SpawnBrick = GetWorld()->SpawnActor<ABrick>(ABrick::StaticClass(), Location2, Rotation2);
+	FVector Location2(-85.0f, 4.0f, 400.0f);
+	FRotator Rotation2(0.0f, 0.0f, 0.0f);
+	SpawnBrick = GetWorld()->SpawnActor<ABrick>(ABrick::StaticClass(), Location2, Rotation2);
 
-	//FVector Location3(-30.0f, 4.0f, 400.0f);
-	//FRotator Rotation3(0.0f, 0.0f, 0.0f);
-	//SpawnBrick = GetWorld()->SpawnActor<ABrick>(ABrick::StaticClass(), Location3, Rotation3);
+	FVector Location3(-30.0f, 4.0f, 400.0f);
+	FRotator Rotation3(0.0f, 0.0f, 0.0f);
+	SpawnBrick = GetWorld()->SpawnActor<ABrick>(ABrick::StaticClass(), Location3, Rotation3);
 
-	//FVector Location4(25.0f, 4.0f, 400.0f);
-	//FRotator Rotation4(0.0f, 0.0f, 0.0f);
-	//SpawnBrick = GetWorld()->SpawnActor<ABrick>(ABrick::StaticClass(), Location4, Rotation4);
+	FVector Location4(25.0f, 4.0f, 400.0f);
+	FRotator Rotation4(0.0f, 0.0f, 0.0f);
+	SpawnBrick = GetWorld()->SpawnActor<ABrick>(ABrick::StaticClass(), Location4, Rotation4);
 
-	//FVector Location5(80.0f, 4.0f, 400.0f);
-	//FRotator Rotation5(0.0f, 0.0f, 0.0f);
-	//SpawnBrick = GetWorld()->SpawnActor<ABrick>(ABrick::StaticClass(), Location5, Rotation5);
+	FVector Location5(80.0f, 4.0f, 400.0f);
+	FRotator Rotation5(0.0f, 0.0f, 0.0f);
+	SpawnBrick = GetWorld()->SpawnActor<ABrick>(ABrick::StaticClass(), Location5, Rotation5);
 
-	//FVector Location6(135.0f, 4.0f, 400.0f);
-	//FRotator Rotation6(0.0f, 0.0f, 0.0f);
-	//SpawnBrick = GetWorld()->SpawnActor<ABrick>(ABrick::StaticClass(), Location6, Rotation6);
+	FVector Location6(135.0f, 4.0f, 400.0f);
+	FRotator Rotation6(0.0f, 0.0f, 0.0f);
+	SpawnBrick = GetWorld()->SpawnActor<ABrick>(ABrick::StaticClass(), Location6, Rotation6);
 	for (int i = 0; i < BrickSpawn; i++)
 	{
 		GEngine->AddOnScreenDebugMessage(-1, 10, FColor::Red, TEXT("Spawn aleatorio de bricks"));

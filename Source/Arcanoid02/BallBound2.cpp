@@ -11,7 +11,8 @@ ABallBound2::ABallBound2()
 {
  	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
-	BoxCollision = CreateDefaultSubobject<UBoxComponent>(TEXT("Box collision"));
+	BoxCollision = CreateDefaultSubobject<UBoxComponent>(TEXT("Box Collision"));
+	RootComponent = BoxCollision;
 }
 
 // Called when the game starts or when spawned

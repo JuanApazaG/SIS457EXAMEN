@@ -25,7 +25,9 @@ protected:
 
 	class APaddle_Player_Controller* PlayerControllerREF;
 	UFUNCTION()
-		void OnOverlapBegin(class UPrimitiveComponent* OverlappedComp, class AActor* OtherActor, class UPrimitiveComponent* OtherComp, int32 OtherBodyIndexType, bool bFromSweet, const FHitResult& SweepResult);
+		void OnOverlapBegin(class UPrimitiveComponent* OverlappedComp, class AActor* OtherActor, 
+			class UPrimitiveComponent* OtherComp, int32 OtherBodyIndexType, bool bFromSweet, 
+			const FHitResult& SweepResult);
 
 public:	
 	// Called every frame
